@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="427f2512-498c-4976-9183-21effc0849af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WithdrawWithDetails.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lender.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Run.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Withdraw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Withdraw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WithdrawDetails.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,22 +75,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="235" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1594740910515" />
-    <state width="1322" height="185" key="GridCell.Tab.0.bottom" timestamp="1594747835676">
+    <state width="1322" height="193" key="GridCell.Tab.0.bottom" timestamp="1594748486232">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="185" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594747835676" />
-    <state width="1322" height="185" key="GridCell.Tab.0.center" timestamp="1594747835676">
+    <state width="1322" height="193" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594748486232" />
+    <state width="1322" height="193" key="GridCell.Tab.0.center" timestamp="1594748486232">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="185" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594747835676" />
-    <state width="1322" height="185" key="GridCell.Tab.0.left" timestamp="1594747835675">
+    <state width="1322" height="193" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594748486232" />
+    <state width="1322" height="193" key="GridCell.Tab.0.left" timestamp="1594748486231">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="185" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594747835675" />
-    <state width="1322" height="185" key="GridCell.Tab.0.right" timestamp="1594747835676">
+    <state width="1322" height="193" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594748486231" />
+    <state width="1322" height="193" key="GridCell.Tab.0.right" timestamp="1594748486232">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="185" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594747835676" />
+    <state width="1322" height="193" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594748486232" />
     <state width="1322" height="214" key="GridCell.Tab.1.bottom" timestamp="1594747480208">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

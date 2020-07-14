@@ -31,20 +31,6 @@ public class Run {
         List<Withdraw> withdrawList = new ArrayList<>(Arrays.asList(withdraw1,withdraw2));
 
         System.out.println(flattenStructure(withdrawList));
-
-
-        //List<Withdraw> allWithdraws = new ArrayList<>();
-        //allWithdraws.add(firstWithdraw);
-        //allWithdraws.add(secondWithdraw);
-
-        //List<WithdrawWithDetails> secondList = flattenStructure(allWithdraws);
-
-        //System.out.println(secondList);
-
-        // List<WithdrawWithDetails> lista = flattenStructure(allWithdraws);
-
-        //System.out.println(lista);
-
     }
 
     private static List<WithdrawWithDetails> flattenStructure(List<Withdraw> withdrawList) {
