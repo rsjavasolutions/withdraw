@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="427f2512-498c-4976-9183-21effc0849af" name="Default Changelist" comment="" />
+    <list default="true" id="427f2512-498c-4976-9183-21effc0849af" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WithdrawWithDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Run.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Withdraw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Withdraw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WithdrawDetails.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1egGn58otANYoF5BXopLVwOdz3D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,10 +35,25 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Run" />
+      <module name="doexcela" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Run" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -45,9 +73,49 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1594735997509" />
-    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1594737061686">
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1594741797974">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1594737061686" />
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1594741797974" />
+    <state x="235" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594740910515">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="235" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1594740910515" />
+    <state width="1322" height="185" key="GridCell.Tab.0.bottom" timestamp="1594747835676">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="185" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594747835676" />
+    <state width="1322" height="185" key="GridCell.Tab.0.center" timestamp="1594747835676">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="185" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594747835676" />
+    <state width="1322" height="185" key="GridCell.Tab.0.left" timestamp="1594747835675">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="185" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594747835675" />
+    <state width="1322" height="185" key="GridCell.Tab.0.right" timestamp="1594747835676">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="185" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594747835676" />
+    <state width="1322" height="214" key="GridCell.Tab.1.bottom" timestamp="1594747480208">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="214" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594747480208" />
+    <state width="1322" height="214" key="GridCell.Tab.1.center" timestamp="1594747480207">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="214" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1594747480207" />
+    <state width="1322" height="214" key="GridCell.Tab.1.left" timestamp="1594747480207">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="214" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1594747480207" />
+    <state width="1322" height="214" key="GridCell.Tab.1.right" timestamp="1594747480208">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="214" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1594747480208" />
+    <state x="339" y="17" width="670" height="676" key="search.everywhere.popup" timestamp="1594739534912">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="17" width="670" height="676" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1594739534912" />
   </component>
 </project>

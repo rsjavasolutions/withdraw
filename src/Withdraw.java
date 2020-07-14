@@ -14,6 +14,38 @@ public class Withdraw {
         this.exchangeRate = exchangeRate;
     }
 
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public List<Lender> getLenderList() {
+        return lenderList;
+    }
+
+    public void setLenderList(List<Lender> lenderList) {
+        this.lenderList = lenderList;
+    }
+
+    public double getAmount() {
+        return amount;
+    }
+
+    public void setAmount(double amount) {
+        this.amount = amount;
+    }
+
+    public double getExchangeRate() {
+        return exchangeRate;
+    }
+
+    public void setExchangeRate(double exchangeRate) {
+        this.exchangeRate = exchangeRate;
+    }
+
     @Override
     public String toString() {
         return "Withdraw{" +
